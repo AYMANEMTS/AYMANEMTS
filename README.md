@@ -1,4 +1,4 @@
-# Hi, I'm [Aymane Moutousse] 👋
+# Hi, I'm Aymane Moutousse 👋
 
 I'm a web developer with a passion for creating web applications. Currently, I'm studying web development at OFPPT LAZARET OUJDA and I've been learning and honing my skills for the past 2 years, primarily through online courses. I'm eager to gain practical experience and contribute to exciting web projects. Here are some of the technologies and languages I'm proficient in:
 
