@@ -6,7 +6,7 @@ I'm a web developer with a passion for creating web applications. Currently, I'm
 
 ## 📫 Contact Me
 
-- Email: oujdimraymane@gmail.com
+- Email: aymane.dev07@gmail.com
 
 I'm actively looking for opportunities to work on web development projects and gain valuable experience. If you have any exciting projects or opportunities, don't hesitate to reach out.
 
