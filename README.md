@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://4ymane-portfolio.vercel.app" target="_blank">Aymane Moutousse</a></h1>
-<h3 align="center">Full-Stack Web & Mobile Developer | Laravel • React • React Native • Next.js</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://github.com/AYMANEMTS">
@@ -13,12 +13,12 @@
 ---
 
 ### 🧠 About Me
-💻 I'm a passionate **Full-Stack Developer** who loves transforming ideas into scalable and user-friendly digital products.  
-🚀 Skilled in both **web** and **mobile app** development, I combine creativity with engineering to deliver high-quality experiences.  
-🌍 Currently exploring **Next.js**, **AWS**, and **DevOps automation** to build even more powerful applications.  
+Web and mobile app developer with a passion for building high-performance, user-friendly applications.
+Skilled in back-end development with extensive experience in Laravel, React.js, and React Native. 
+Dedicated to leveraging technology to craft effective solutions and enhance user experiences.
 
 - 👨‍💻 Portfolio: [4ymane-portfolio.vercel.app](https://4ymane-portfolio.vercel.app)  
-- 📫 Reach me: **oujdimraymane@gmail.com**
+- 📫 Reach me: **aymane.dev07@gmail.com**
 
 ---
 
@@ -60,7 +60,9 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aymanemts" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://twitter.com/aymanemtsx" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+<a href="https://twitter.com/aymanemtsx" target="_blank">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_X_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/langfr-250px-X_logo_2023.svg.png)" height="40" alt="X (Twitter)" />
+</a>
   <a href="https://stackoverflow.com/users/31633047/aymane-mts" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
   <a href="https://www.instagram.com/aymanemts" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
   <a href="https://www.facebook.com/aymanemts" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
