@@ -2,8 +2,8 @@
 <h3 align="center">Full-Stack Web & Mobile Developer | Laravel • React • React Native • Next.js</h3>
 
 <p align="center">
-  <a href="https://github.com/aymanemts">
-    <img src="https://komarev.com/ghpvc/?username=aymanemts&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/AYMANEMTS">
+    <img src="https://komarev.com/ghpvc/?username=AYMANEMTS&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   </a>
   <a href="https://twitter.com/aymanemtsx">
     <img src="https://img.shields.io/twitter/follow/aymanemtsx?logo=twitter&style=flat-square" alt="twitter" />
@@ -40,19 +40,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aymanemts&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanemts&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AYMANEMTS&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYMANEMTS&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aymanemts&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AYMANEMTS&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aymanemts&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AYMANEMTS&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -81,5 +81,5 @@ feel free to connect or collaborate with me 🤝
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aymanemts/aymanemts/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/AYMANEMTS/AYMANEMTS/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
