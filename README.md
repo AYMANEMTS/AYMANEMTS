@@ -70,12 +70,6 @@ Dedicated to leveraging technology to craft effective solutions and enhance user
 
 ---
 
-## 💡 Fun Fact
-> I see development as a mix of **creativity + logic** — a way to turn ideas into powerful solutions.  
-> When I’m not coding, I’m probably designing, experimenting with AI tools, or enjoying a good Moroccan coffee ☕
-
----
-
 ## 🚀 Let’s Build Something Great
 If you’re looking for a **creative full-stack developer** with hands-on experience from front-end to deployment,  
 feel free to connect or collaborate with me 🤝
