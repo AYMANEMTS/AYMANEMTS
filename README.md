@@ -61,7 +61,7 @@ Dedicated to leveraging technology to craft effective solutions and enhance user
 <p align="center">
   <a href="https://www.linkedin.com/in/aymanemts" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://twitter.com/aymanemtsx" target="_blank">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_X_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/langfr-250px-X_logo_2023.svg.png)" height="40" alt="X (Twitter)" />
+  <img src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebc6c19c2fe31de94c78e_X-vector-logo-download.png" height="40" alt="X (Twitter)" />
 </a>
   <a href="https://stackoverflow.com/users/31633047/aymane-mts" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
   <a href="https://www.instagram.com/aymanemts" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
